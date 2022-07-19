@@ -57,5 +57,7 @@ Contrary to popular belief, logistic regression IS a regression model. The model
 
 #### Sigmoid Function: g(z) = $\frac{1}{1 + e^-z}\$
 
+<img src="https://user-images.githubusercontent.com/107324616/179775279-b2ca154b-9c00-4464-87f2-8c7d1b1a4390.png" width="200" height="200">
+
 ![image](https://user-images.githubusercontent.com/107324616/179775279-b2ca154b-9c00-4464-87f2-8c7d1b1a4390.png)
 
