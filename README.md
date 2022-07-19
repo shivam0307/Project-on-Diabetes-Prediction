@@ -65,5 +65,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm that can
 
 To separate the two classes of data points, there are many possible hyperplanes that could be chosen. Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
 
-<img src="https://user-images.githubusercontent.com/107324616/179776508-541d72c7-15ef-4934-a283-88f9f09c9192.png"> <img src="https://user-images.githubusercontent.com/107324616/179776778-f233a906-8a55-4f7a-b8a8-ed17bac39c07.png" width="600" height="200">
+<img src="https://user-images.githubusercontent.com/107324616/179776508-541d72c7-15ef-4934-a283-88f9f09c9192.png"> 
+
+<img src="https://user-images.githubusercontent.com/107324616/179776778-f233a906-8a55-4f7a-b8a8-ed17bac39c07.png" width="600" height="220">
 
