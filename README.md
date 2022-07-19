@@ -59,4 +59,11 @@ Contrary to popular belief, logistic regression IS a regression model. The model
 
 <img src="https://user-images.githubusercontent.com/107324616/179775279-b2ca154b-9c00-4464-87f2-8c7d1b1a4390.png" width="400" height="400">
 
+## Supporting Vector Machine
+
+Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification or regression challenges. However,  it is mostly used in classification problems. In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is a number of features you have) with the value of each feature being the value of a particular coordinate. Then, we perform classification by finding the hyper-plane that differentiates the two classes very well.
+
+To separate the two classes of data points, there are many possible hyperplanes that could be chosen. Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
+
+<img src="https://user-images.githubusercontent.com/107324616/179776508-541d72c7-15ef-4934-a283-88f9f09c9192.png"> <img src="https://user-images.githubusercontent.com/107324616/179776778-f233a906-8a55-4f7a-b8a8-ed17bac39c07.png">
 
