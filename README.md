@@ -17,11 +17,11 @@ This Project is an Real Life Application of Machine Learning Techniques in Medic
 Diabetes is a serious health disease due to the presence of high glucose levels in the human body. If diabetes is untreated, it can cause other critical health issues in person. 
 
 ### Report by WHO (10 Nov 2021)
--> The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
--> Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation.
--> Between 2000 and 2016, there was a 5% increase in premature mortality from diabetes.
--> In 2019, diabetes was the ninth leading cause of death with an estimated 1.5 million deaths directly caused by diabetes.
--> A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.
+- The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
+- Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation.
+- Between 2000 and 2016, there was a 5% increase in premature mortality from diabetes.
+- In 2019, diabetes was the ninth leading cause of death with an estimated 1.5 million deaths directly caused by diabetes.
+- A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.
 
 Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications. The main aim of the project is to predict diabetes by analyzing different human body attributes. The proposed methodology adopts two types of machine learning algorithms for diabetes prediction:
 1. Logistics Regression
