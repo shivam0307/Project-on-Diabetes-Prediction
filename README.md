@@ -67,5 +67,7 @@ To separate the two classes of data points, there are many possible hyperplanes 
 
 <img src="https://user-images.githubusercontent.com/107324616/179776508-541d72c7-15ef-4934-a283-88f9f09c9192.png"> 
 
-<img src="https://user-images.githubusercontent.com/107324616/179776778-f233a906-8a55-4f7a-b8a8-ed17bac39c07.png" width="600" height="220">
+## Basic Working Pipeline of the Project
+
+![image](https://user-images.githubusercontent.com/107324616/179778664-4e143bcd-8bda-4199-b4da-8adf8e687057.png)
 
