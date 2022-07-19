@@ -1,7 +1,7 @@
 # Diabetes Prediction using Machine Learning Techniques
 ![image](https://user-images.githubusercontent.com/107324616/179756170-3f1c0930-cda3-4680-9b14-aa2c32b60822.png) ![image](https://user-images.githubusercontent.com/107324616/179756553-012c7e06-3ef5-46fd-8a09-2aa180ebd153.png)
 
-![test image size]<img src="https://user-images.githubusercontent.com/107324616/179756553-012c7e06-3ef5-46fd-8a09-2aa180ebd153.png" width="400" height="790">
+![test image size]<img src="https://user-images.githubusercontent.com/107324616/179756553-012c7e06-3ef5-46fd-8a09-2aa180ebd153.png" width="724" height="434">
 
 
 
