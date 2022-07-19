@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-![image height="10" width="10"](https://user-images.githubusercontent.com/107324616/179756170-3f1c0930-cda3-4680-9b14-aa2c32b60822.png) ![image height="10" width="10"](https://user-images.githubusercontent.com/107324616/179756553-012c7e06-3ef5-46fd-8a09-2aa180ebd153.png)
+![image height="10" width="10"](https://user-images.githubusercontent.com/107324616/179756170-3f1c0930-cda3-4680-9b14-aa2c32b60822.png) ![image](https://user-images.githubusercontent.com/107324616/179756553-012c7e06-3ef5-46fd-8a09-2aa180ebd153.png)
 
 
 I've explored, analyzed the Pima Indians Diabetes Dataset, and applied Machine Learning Techniques.
