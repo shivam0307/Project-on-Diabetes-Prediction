@@ -80,4 +80,12 @@ The following steps are used to create a Machine Larning Project using predefine
 4. Data Splitting (Train-Test): Now we will spilt the dataset into two parts, the training part will be used to create the model and testing part will be used to verify the results of our model.
 5. At last, we will select the most accurate result between both the techniques.
 
+## Required Dependencies
+
+1. [numpy](https://github.com/numpy/numpy)
+2. [pandas](https://github.com/pandas-dev/pandas)
+3. [matplotlib](https://github.com/matplotlib/matplotlib)
+4. [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+5. [seaborn](https://github.com/seaborn/seaborn)
+
 
