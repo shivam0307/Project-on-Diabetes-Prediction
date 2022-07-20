@@ -88,4 +88,9 @@ The following steps are used to create a Machine Larning Project using predefine
 4. [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 5. [seaborn](https://github.com/seaborn/seaborn)
 
+## Results
 
+1. Logistic Regression :arrow_right: 77.92
+2. SVM Technique :arrow_right: 77.92
+
+#### Conclusion: Since, Both the models have equal Accuracy, I am considering the Regression Model as our predictive Model.
