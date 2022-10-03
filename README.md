@@ -71,7 +71,7 @@ To separate the two classes of data points, there are many possible hyperplanes 
 
 ![image](https://user-images.githubusercontent.com/107324616/179779255-ed3840c4-d44f-4fb1-b042-364fc9c0e0a7.png)
 
-The following steps are used to create a Machine Larning Project using predefined dataset:
+The following steps are used to create a Machine Learning Project using predefined dataset:
 
 1. Data Collection: The very first step is to collect the data and required dependencies.
 
