@@ -74,7 +74,9 @@ To separate the two classes of data points, there are many possible hyperplanes 
 The following steps are used to create a Machine Larning Project using predefined dataset:
 1. Data Collection: The very first step is to collect the data and required dependencies.
 2. Data Analysis and Data Preprocessing
+
 2.1 Data Analysis: After that, we used to analyze the dataset, about it's behaviour, trend and changes with respect to independent attributes. We also have to analyze the dependencies between every attribute, such that our model must be fitted perfectly.
+
 2.2 Data Cleaning and Preprocessing: This is the most important step in model creation. The Cleaning of our dataset, such that the good data can be used for next process and unrequired/bad data should be removed so that the condition of overfitting and underfitting won't occur.
 3. Feature Enginnering: It is a machine learning technique that leverages data to create new variables that aren't in the training set. It can produce new features for both supervised and unsupervised learning, with the goal of simplifying and speeding up data transformations while also enhancing model accuracy.
 4. Data Splitting (Train-Test): Now we will spilt the dataset into two parts, the training part will be used to create the model and testing part will be used to verify the results of our model.
